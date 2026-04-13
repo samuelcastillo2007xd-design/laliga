@@ -1,0 +1,4 @@
+4;Real Madrid;Barcelona;4;0
+1;Colombia;argentina;10;0
+3;Colombia;Venezuela;4;5
+1;Colombia;Venezuela;2;0
